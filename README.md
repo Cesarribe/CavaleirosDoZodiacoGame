@@ -16,30 +16,9 @@ Java : Linguagem de programação utilizada para o desenvolvimento do jogo.
 JUnit : Framework para a realização de testes unitários.
 Maven : Gerenciador de dependências e construção do projeto.
 
-/jogo-zodiaco
-│
-├── src
-│   ├── main
-│   │   ├── java
-│   │   │   ├── com
-│   │   │   │   └── zodiaco
-│   │   │   │       ├── model
-│   │   │   │       │   ├── Cavaleiro.java          // Interface Cavaleiro
-│   │   │   │       │   ├── CavaleiroOuro.java     // Classe CavaleiroOuro
-│   │   │   │       │   └── CavaleiroBronze.java    // Classe CavaleiroBronze
-│   │   │   │       ├── utils
-│   │   │   │       │   └── ImprimirComPausa.java   // Classe para imprimir com pausa
-│   │   │   │       └── Main.java                    // Classe principal
-│   │   └── resources
-│   └── test
-│       └── java
-│           └── com
-│               └── zodiaco
-│                   └── testes
-│
-├── pom.xml
-└── README.md
+
 ____________________________________________________________________________________________________________________
+![readme](https://github.com/user-attachments/assets/fed01cba-3a49-4a66-8ecc-273796dcc8a4)
 
 
 
